@@ -1,0 +1,43 @@
+services:
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile.server
+    environment:
+      NODE_ENV: development
+      db_host: db
+      db_port: 5432
+      db_name: finance
+      db_pwd: postgres
+      db_usr: postgres
+    ports:
+      - 3000:3000
+    volumes:
+      - ./server:/usr/src/app/backend
+      - /usr/src/app/backend/node_modules
+    depends_on:
+      - db
+    command: ['sh', '/usr/src/app/backend/entrypoint.sh']
+
+  db:
+    image: postgres:14
+    restart: always
+    environment:
+      POSTGRES_DB: finance
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - ./postgres/init.sql:/docker-entrypoint-initdb.d/init.sql # Mount an initialization SQL script
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile.client
+    environment:
+      NODE_ENV: development
+    ports:
+      - 1234:5173
+    volumes:
+      - ./client:/usr/src/app/frontend
+      - /usr/src/app/frontend/node_modules
+    command: ['sh', '/usr/src/app/frontend/entrypoint.sh']

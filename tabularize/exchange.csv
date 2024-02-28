@@ -1,0 +1,24 @@
+symbol,ticker,type,name,currency,country
+ALEZX.US,ALEZX,mutual fund,The Alger Funds - Alger Weatherbie Enduring Growth Fund,USD,USA
+TL0.XETRA,TL0,common stock,Tesla Inc,EUR,Germany
+SMLD.XETRA,SMLD,exchange traded fund,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF (Dist),EUR,Germany
+0GZC.XETRA,0GZC,exchange traded commodity,RICI Enhanced Nickel (ER) Index EUR Hedge ETC,EUR,Germany
+COMAX.US,COMAX,mutual fund,Columbia Funds Series Trust I - Columbia Massachusetts Tax-Exempt Fund,USD,USA
+BST.US,BST,fund,BlackRock Science & Tech Tr,USD,USA
+BISLX.US,BISLX,mutual fund,Brown Advisory Funds - Brown Advisory Sustainable International Leaders Fund,USD,USA
+BGH.US,BGH,fund,Barings Global Short Duration High Yield Fund,USD,USA
+SP100.INDX,SP100,index,S&P 100 Index,USD,USA
+B4NQ.XETRA,B4NQ,exchange traded commodity,Kupfer TR ETC EUR,EUR,Germany
+APC.XETRA,APC,common stock,Apple Inc,EUR,Germany
+MHF.US,MHF,fund,Western Asset Municipal High Income Closed Fund,USD,USA
+GBSE.F,GBSE,exchange traded commodity,ETFS EUR Daily Hedged Physical Gold ETC,EUR,Germany
+18MS.XETRA,18MS,exchange traded fund,Amundi ETF Short Euro Stoxx 50 Daily UCITS ETF,EUR,Germany
+2B7F.XETRA,2B7F,exchange traded fund,iShares Automation & Robotics UCITS ETF USD (Dist),EUR,Germany
+1INCH-USD.CC,1INCH-USD,cryptocurrency,1INCH,USD,Unknown
+ZS.COMM,ZS,commodity,Soybean (CME),USD,USA
+PL.COMM,PL,commodity,Platinum,USD,USA
+GDAXI.INDX,GDAXI,index,DAX Index,EUR,Germany
+GC.COMM,GC,commodity,Gold (COMEX),USD,USA
+XLM-USD.CC,XLM-USD,cryptocurrency,Stellar,USD,Unknown
+BTC-USD.CC,BTC-USD,cryptocurrency,Bitcoin,USD,Unknown
+DJI.INDX,DJI,index,Dow Jones Industrial Average,USD,USA

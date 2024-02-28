@@ -1,0 +1,21 @@
+symbol,type,name,exchange,currency,countryName
+18MS.XETRA,exchange traded fund,Amundi ETF Short Euro Stoxx 50 Daily UCITS ETF,XETRA,EUR,Germany
+0GZC.XETRA,exchange traded commodity,RICI Enhanced Nickel (ER) Index EUR Hedge ETC,XETRA,EUR,Germany
+BISLX.US,mutual fund,Brown Advisory Sustainable International Leaders Fund Investor Shares,NMFQS,USD,USA
+APC.XETRA,common stock,Apple Inc,XETRA,EUR,Germany
+B4NQ.XETRA,exchange traded commodity,Kupfer TR ETC EUR,XETRA,EUR,Germany
+ALEZX.US,mutual fund,Alger Weatherbie Enduring Growth Fund Class Z,NMFQS,USD,USA
+GBSE.F,exchange traded commodity,ETFS EUR Daily Hedged Physical Gold ETC,F,EUR,Germany
+GDAXI.INDX,index,DAX Index,INDX,EUR,Germany
+SP100.INDX,index,S&P 100 Index,INDX,USD,USA
+TL0.XETRA,common stock,Tesla Inc,XETRA,EUR,Germany
+COMAX.US,mutual fund,DWS Communications A,NMFQS,USD,USA
+BGH.US,fund,Barings Global Short Duration High Yield Fund,NYSE,USD,USA
+BST.US,fund,BlackRock Science and Technology Trust,NYSE,USD,USA
+BTC-USD.CC,cryptocurrency,Bitcoin,,USD,
+1INCH-USD.CC,cryptocurrency,1inch Network,,USD,
+DJI.INDX,index,Dow Jones Industrial Average,INDX,USD,USA
+2B7F.XETRA,exchange traded fund,iShares Automation & Robotics UCITS ETF USD (Dist),XETRA,EUR,Germany
+MHF.US,fund,Western Asset Municipal High Income Fund Inc,NYSE,USD,USA
+SMLD.XETRA,exchange traded fund,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF (Dist),XETRA,EUR,Germany
+XLM-USD.CC,cryptocurrency,Stellar,,USD,
